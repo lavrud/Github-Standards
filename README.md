@@ -1,4 +1,4 @@
-# Github-Standards
+# Github-deployment patterns
 
 # Padrões de commits 📜
 
