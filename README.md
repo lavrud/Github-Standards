@@ -12,25 +12,25 @@ Essa identificação ocorre por meio de uma palavra e emoji que identifica se aq
 
 O commit semântico possui os elementos estruturais abaixo (tipos), que informam a intenção do seu commit ao utilizador(a) de seu código.
 
-- `feat`- Commits do tipo feat indicam que seu trecho de código está incluindo um _**novo recurso**_ (se relaciona com o MINOR do versionamento semântico).
+- `feat`- Commits do tipo feat indicam que seu trecho de código está incluindo um _###novo recurso###_ (se relaciona com o MINOR do versionamento semântico).
 
-- `fix` - Commits do tipo fix indicam que seu trecho de código commitado está _**solucionando um problema**_ (bug fix), (se relaciona com o PATCH do versionamento semântico).
+- `fix` - Commits do tipo fix indicam que seu trecho de código commitado está _###solucionando um problema###_ (bug fix), (se relaciona com o PATCH do versionamento semântico).
 
-- `docs` - Commits do tipo docs indicam que houveram _**mudanças na documentação**_, como por exemplo no Readme do seu repositório. (Não inclui alterações em código).
+- `docs` - Commits do tipo docs indicam que houveram _###mudanças na documentação###_, como por exemplo no Readme do seu repositório. (Não inclui alterações em código).
 
 - `test` - Commits do tipo test são utilizados quando são realizadas _**alterações em testes**_, seja criando, alterando ou excluindo testes unitários. (Não inclui alterações em código)
 
-- `build` - Commits do tipo build são utilizados quando são realizadas modificações em _**arquivos de build e dependências**_.
+- `build` - Commits do tipo build são utilizados quando são realizadas modificações em _###arquivos de build e dependências###_.
 
-- `perf` - Commits do tipo perf servem para identificar quaisquer alterações de código que estejam relacionadas a _**performance**_.
+- `perf` - Commits do tipo perf servem para identificar quaisquer alterações de código que estejam relacionadas a _###performance###_.
 
-- `style` - Commits do tipo style indicam que houveram alterações referentes a _**formatações de código**_, semicolons, trailing spaces, lint... (Não inclui alterações em código).
+- `style` - Commits do tipo style indicam que houveram alterações referentes a _###formatações de código###_, semicolons, trailing spaces, lint... (Não inclui alterações em código).
 
-- `refactor` - Commits do tipo refactor referem-se a mudanças devido a _**refatorações que não alterem sua funcionalidade**_, como por exemplo, uma alteração no formato como é processada determinada parte da tela, mas que manteve a mesma funcionalidade, ou melhorias de performance devido a um code review.
+- `refactor` - Commits do tipo refactor referem-se a mudanças devido a _###refatorações que não alterem sua funcionalidade###_, como por exemplo, uma alteração no formato como é processada determinada parte da tela, mas que manteve a mesma funcionalidade, ou melhorias de performance devido a um code review.
 
-- `chore` - Commits do tipo chore indicam _**atualizações de tarefas**_ de build, configurações de administrador, pacotes... como por exemplo adicionar um pacote no gitignore. (Não inclui alterações em código)
+- `chore` - Commits do tipo chore indicam _###atualizações de tarefas###_ de build, configurações de administrador, pacotes... como por exemplo adicionar um pacote no gitignore. (Não inclui alterações em código)
 
-- `ci` - Commits do tipo ci indicam mudanças relacionadas a _**integração contínua**_ (_continuous integration_).
+- `ci` - Commits do tipo ci indicam mudanças relacionadas a _###integração contínua###_ (_continuous integration_).
 
 - `raw` - Commits to tipo raw indicam mudanças relacionadas a arquivos de configurações, dados, features, parametros.
   
