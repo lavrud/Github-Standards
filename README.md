@@ -12,7 +12,7 @@ Essa identificação ocorre por meio de uma palavra e emoji que identifica se aq
 
 O commit semântico possui os elementos estruturais abaixo (tipos), que informam a intenção do seu commit ao utilizador(a) de seu código.
 
-- `feat`- Commits do tipo feat indicam que seu trecho de código está incluindo um ###novo recurso### (se relaciona com o MINOR do versionamento semântico).
+- `feat`- Commits do tipo feat indicam que seu trecho de código está incluindo um ==novo recurso== (se relaciona com o MINOR do versionamento semântico).
 
 - `fix` - Commits do tipo fix indicam que seu trecho de código commitado está _###solucionando um problema###_ (bug fix), (se relaciona com o PATCH do versionamento semântico).
 
